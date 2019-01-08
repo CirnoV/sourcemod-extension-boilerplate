@@ -7,20 +7,26 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "myExtension", "myExtension\
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug - CSS|x64 = Debug - CSS|x64
+		Debug - CSGO|x86 = Debug - CSGO|x86
 		Debug - CSS|x86 = Debug - CSS|x86
-		Release - CSS|x64 = Release - CSS|x64
+		Debug|x86 = Debug|x86
+		Release - CSGO|x86 = Release - CSGO|x86
 		Release - CSS|x86 = Release - CSS|x86
+		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{538CD557-B74E-47DA-B765-CE2E390FB022}.Debug - CSS|x64.ActiveCfg = Debug|x64
-		{538CD557-B74E-47DA-B765-CE2E390FB022}.Debug - CSS|x64.Build.0 = Debug|x64
-		{538CD557-B74E-47DA-B765-CE2E390FB022}.Debug - CSS|x86.ActiveCfg = Debug|Win32
-		{538CD557-B74E-47DA-B765-CE2E390FB022}.Debug - CSS|x86.Build.0 = Debug|Win32
-		{538CD557-B74E-47DA-B765-CE2E390FB022}.Release - CSS|x64.ActiveCfg = Release|x64
-		{538CD557-B74E-47DA-B765-CE2E390FB022}.Release - CSS|x64.Build.0 = Release|x64
-		{538CD557-B74E-47DA-B765-CE2E390FB022}.Release - CSS|x86.ActiveCfg = Release|Win32
-		{538CD557-B74E-47DA-B765-CE2E390FB022}.Release - CSS|x86.Build.0 = Release|Win32
+		{538CD557-B74E-47DA-B765-CE2E390FB022}.Debug - CSGO|x86.ActiveCfg = Debug - CSGO|Win32
+		{538CD557-B74E-47DA-B765-CE2E390FB022}.Debug - CSGO|x86.Build.0 = Debug - CSGO|Win32
+		{538CD557-B74E-47DA-B765-CE2E390FB022}.Debug - CSS|x86.ActiveCfg = Debug - CSS|Win32
+		{538CD557-B74E-47DA-B765-CE2E390FB022}.Debug - CSS|x86.Build.0 = Debug - CSS|Win32
+		{538CD557-B74E-47DA-B765-CE2E390FB022}.Debug|x86.ActiveCfg = Debug|Win32
+		{538CD557-B74E-47DA-B765-CE2E390FB022}.Debug|x86.Build.0 = Debug|Win32
+		{538CD557-B74E-47DA-B765-CE2E390FB022}.Release - CSGO|x86.ActiveCfg = Release - CSGO|Win32
+		{538CD557-B74E-47DA-B765-CE2E390FB022}.Release - CSGO|x86.Build.0 = Release - CSGO|Win32
+		{538CD557-B74E-47DA-B765-CE2E390FB022}.Release - CSS|x86.ActiveCfg = Release - CSS|Win32
+		{538CD557-B74E-47DA-B765-CE2E390FB022}.Release - CSS|x86.Build.0 = Release - CSS|Win32
+		{538CD557-B74E-47DA-B765-CE2E390FB022}.Release|x86.ActiveCfg = Debug|Win32
+		{538CD557-B74E-47DA-B765-CE2E390FB022}.Release|x86.Build.0 = Debug|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
